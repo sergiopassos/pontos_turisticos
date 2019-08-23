@@ -9,5 +9,4 @@ landingpage
 Pipfile
 Pipfile.lock
 staticfiles
-Procfile
 .ipynb_checkpoints/
